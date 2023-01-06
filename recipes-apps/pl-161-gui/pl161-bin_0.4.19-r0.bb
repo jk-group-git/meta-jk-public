@@ -14,6 +14,7 @@ RDEPENDS_${PN} += "\
                    qtquickcontrols-qmlplugins\
                    qtquickcontrols2-qmlplugins\
                    qtgraphicaleffects-qmlplugins\
+                   qtconnectivity\
                    qtsvg\
                    udisks2\
                    updater\
