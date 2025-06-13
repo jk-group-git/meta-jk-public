@@ -3,7 +3,7 @@ do_install_append (){
 }
 
 SRC_URI = " \
-git://github.com/systemd/systemd.git;protocol=https \
+git://github.com/systemd/systemd.git;protocol=https;branch=main \
 file://touchscreen.rules \
 file://00-create-volatile.conf \
 file://init \
